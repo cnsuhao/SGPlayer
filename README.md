@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-%20iOS%20macOS%20tvOS%20-blue.svg)
 ![Support](https://img.shields.io/badge/support-%20VR%20360%C2%B0%20-orange.svg)
 
-[原理详解](https://git.oschina.net/libobjc/SGPlayer/blob/master/documents/Principle-chs.md) | [视频下载](https://git.oschina.net/libobjc/SGDownload)
+[原理详解](https://github.com/libobjc/SGPlayer/blob/master/documents/Principle-chs.md) | [视频下载](https://github.com/libobjc/SGDownload)
 
 # SGPlayer 
 
